@@ -12,9 +12,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v3
 
-    - name: pull
-      uses: actions/pull@master
-      
     - name: download cidr
       run: |
         chmod +x ros-dpbr.sh
