@@ -1,3 +1,4 @@
+/ip firewall address-list
 add list=ali_us_ip address=5.181.224.0/23 comment=AS45102
 add list=ali_us_ip address=8.208.0.0/16 comment=AS45102
 add list=ali_us_ip address=8.209.0.0/19 comment=AS45102
