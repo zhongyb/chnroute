@@ -34,7 +34,8 @@ add list=ali_us_ip address=43.96.32.0/22 comment=AS45102
 add list=ali_us_ip address=43.96.52.0/24 comment=AS45102
 add list=ali_us_ip address=43.96.66.0/23 comment=AS45102
 add list=ali_us_ip address=43.96.68.0/22 comment=AS45102
-add list=ali_us_ip address=43.96.72.0/22 comment=AS45102
+add list=ali_us_ip address=43.96.72.0/23 comment=AS45102
+add list=ali_us_ip address=43.96.74.0/24 comment=AS45102
 add list=ali_us_ip address=43.96.80.0/23 comment=AS45102
 add list=ali_us_ip address=43.96.85.0/24 comment=AS45102
 add list=ali_us_ip address=43.96.88.0/24 comment=AS45102
@@ -69,8 +70,7 @@ add list=ali_us_ip address=47.86.0.0/16 comment=AS45102
 add list=ali_us_ip address=47.87.0.0/17 comment=AS45102
 add list=ali_us_ip address=47.87.128.0/18 comment=AS45102
 add list=ali_us_ip address=47.87.192.0/19 comment=AS45102
-add list=ali_us_ip address=47.87.224.0/21 comment=AS45102
-add list=ali_us_ip address=47.87.232.0/22 comment=AS45102
+add list=ali_us_ip address=47.87.224.0/20 comment=AS45102
 add list=ali_us_ip address=47.88.0.0/16 comment=AS45102
 add list=ali_us_ip address=47.89.0.0/18 comment=AS45102
 add list=ali_us_ip address=47.89.72.0/21 comment=AS45102
