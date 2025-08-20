@@ -132,6 +132,7 @@ add list=ali_us_ip address=156.236.17.0/24 comment=AS45102
 add list=ali_us_ip address=156.240.76.0/23 comment=AS45102
 add list=ali_us_ip address=156.245.1.0/24 comment=AS45102
 add list=ali_us_ip address=161.117.0.0/16 comment=AS45102
+add list=ali_us_ip address=170.33.20.0/22 comment=AS45102
 add list=ali_us_ip address=170.33.24.0/24 comment=AS45102
 add list=ali_us_ip address=170.33.29.0/24 comment=AS45102
 add list=ali_us_ip address=170.33.30.0/23 comment=AS45102
